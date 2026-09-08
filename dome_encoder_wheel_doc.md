@@ -240,7 +240,7 @@ $$F_{\min} = \frac{500 \times 0{,}05 \times 0{,}1}{2 \times 5 \times 0{,}5} = \f
 
 **Verificação de pressão de contato (Hertz cilíndrico):**
 
-$$p_{\max} = \sqrt{\frac{F \cdot E^{*}}{\pi \cdot L \cdot R^{*}}}$$
+$$p_{\max} = \sqrt{\frac{F \cdot E_{eq}}{\pi \cdot L \cdot R_{eq}}}$$
 
 Onde $L$ = largura de contato [m], $R^{*} = R_{\text{roda}}$ (trilho plano $\rightarrow (R_{\text{trilho}})^{-1} \approx 0$), $E^{*}$ = módulo de elasticidade reduzido equivalente do par PU/aço.
 
